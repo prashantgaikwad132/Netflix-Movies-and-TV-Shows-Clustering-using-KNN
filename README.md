@@ -86,6 +86,8 @@ producer can release on this months
 6) There are about 70% movies and 30% TV shows on Netflix.
 <img src="images/1.png">
 
+For viewing all the visualizations, please go to code - ipynb file.
+
 The fourth step was changing categorical variables into numerical by feature reduction and feature engineering by one hot encoding.
 
 The fifth step was model building using clustering model.
