@@ -6,7 +6,7 @@ weekend?
 Many online streaming services offer a large number of TV shows, which are at our disposal to watch, at the price of a subscription cost. The major online streaming
 services across the world are Netflix, Prime Video, Hulu, and Disney+.
 
-<img src="images/xgb.png">
+<img src="images/netflix.jpg">
 
 Netflix is an American technology and media services provider and production company headquartered in Los Gatos, California. Netflix was founded in 1997 by Reed
 Hastings and Marc Randolph in Scotts Valley, California. 
