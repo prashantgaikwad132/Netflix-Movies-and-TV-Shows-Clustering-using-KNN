@@ -6,6 +6,8 @@ weekend?
 Many online streaming services offer a large number of TV shows, which are at our disposal to watch, at the price of a subscription cost. The major online streaming
 services across the world are Netflix, Prime Video, Hulu, and Disney+.
 
+<img src="images/xgb.png">
+
 Netflix is an American technology and media services provider and production company headquartered in Los Gatos, California. Netflix was founded in 1997 by Reed
 Hastings and Marc Randolph in Scotts Valley, California. 
 
@@ -14,7 +16,7 @@ The company’s primary business is its subscription-based streaming service, wh
 The engine filters over 3,000 titles at a time using 1,300 recommendation clusters based on user preferences. It’s so accurate that 80% of Netflix viewer activity is driven by personalized recommendations from the engine.
 
 
-In this project, we'll do:
+### In this project, we'll do:
 
 1. Exploratory Data Analysis
 2. Understanding what type content is available in different countries
