@@ -96,6 +96,7 @@ The sixth step was testing k-means clustering model.
 
 The seventh step was plotting word cloud to check frequent words used in description, cast, and many more categories of movies/show.
 
+Example: Frequent word in desciption data
 <img src="images/desciption word cloud.png">
 
 The eighth step was concluding the project
