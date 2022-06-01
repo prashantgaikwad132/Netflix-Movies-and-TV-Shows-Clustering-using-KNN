@@ -70,13 +70,16 @@ After performing EDA on the given dataset, I have concluded some inferences:
 1) The largest count of movies is made with the 'TV-MA' rating. "TV-MA" is a rating assigned
 by the TV Parental Guidelines to a television program that was designed for mature
 audiences only.
+<img src="images/movie ratings.png">
 2) Highest number of movies released in Netflix was in the year 2017 and 2018
 3) Highest number of Tv shows released in Netflix was in the years 2018, 2019, and 2020.
 4) The months of October, November, December and January had the largest number of films
 and television series released.
 5) In the given years we have seen in the month of Feb, may less movies was released so
 producer can release on this months
+<img src="images/months.png">
 6) There are about 70% movies and 30% TV shows on Netflix.
+<img src="images/1.png">
 
 The fourth step was changing categorical variables into numerical by feature reduction and feature engineering by one hot encoding.
 
@@ -85,5 +88,7 @@ The fifth step was model building using clustering model.
 The sixth step was testing k-means clustering model.
 
 The seventh step was plotting word cloud to check frequent words used in description, cast, and many more categories of movies/show.
+
+<img src="images/description word cloud.png">
 
 The eighth step was concluding the project
