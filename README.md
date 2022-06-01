@@ -71,7 +71,7 @@ After performing EDA on the given dataset, I have concluded some inferences:
 by the TV Parental Guidelines to a television program that was designed for mature
 audiences only.
 <img src="images/movie ratings.png">
-2) Highest number of movies released in Netflix was in the year 2017 and 2018
+2. Highest number of movies released in Netflix was in the year 2017 and 2018
  
 3) Highest number of Tv shows released in Netflix was in the years 2018, 2019, and 2020.
 
