@@ -20,11 +20,12 @@ In this project, we'll do:
 2. Understanding what type content is available in different countries
 3. Is Netflix has increasingly focusing on TV rather than movies in recent years.
 4. Clustering similar content by matching text-based features
-5. 
+ 
 The given dataset contains a large number of TV shows from the Netflix streaming
 services. Regarding, the features, the dataset contains:
 
-It Consist of 12 columns and 7787 rows. The 12 Variables are as follows:
+12 columns and 7787 rows. The 12 Variables are as follows:
+
 1. show_id : Unique ID for every Movie / Tv Show
 2. type : Identifier - A Movie or TV Show
 3. title : Title of the Movie / Tv Show
