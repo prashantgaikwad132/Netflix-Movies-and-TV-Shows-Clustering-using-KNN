@@ -61,7 +61,9 @@ extracting insights or main characteristics of the data.
 Types of EDA are:
 
 Univariate Analysis - analysis of a single variable
+
 Bivariate Analysis - analysis of exactly two variables
+
 Multivariate Analysis - analysis of dependent variable and multiple independent
 variables
 
